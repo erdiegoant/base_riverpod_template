@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-import 'package:riverpod_base/counter/counter.dart';
+import 'package:riverpod_base/counter/counter.dart' show counter;
 
 void main() {
   test('initial state is 0', () {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:riverpod_base/counter/view/counter_page.dart';
+import 'package:riverpod_base/counter/counter.dart' show CounterPage;
 import 'package:riverpod_base/l10n/l10n.dart';
 
 class App extends StatelessWidget {
